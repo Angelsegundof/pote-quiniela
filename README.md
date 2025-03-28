@@ -42,7 +42,7 @@ La comisión se calcula como un porcentaje del precio de suscripción.
 ## 🧑‍💻 Autor
 
 Desarrollado por [Ángel Ferrer](https://angelferrer.site) 🧠  
-Contacto: contacto@hogarclick.cl
+Contacto: angelsegundof@gmail.com
 
 ---
 
